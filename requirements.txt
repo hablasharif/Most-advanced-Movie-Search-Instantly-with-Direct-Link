@@ -1,0 +1,5 @@
+    requests
+    lxml
+    Beautifulsoup4
+    pandas
+    openxxl
